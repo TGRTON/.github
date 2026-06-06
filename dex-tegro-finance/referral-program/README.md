@@ -20,4 +20,4 @@ You can expect a certain commission each time your invited friends make a swap o
 
 ## How the remuneration is calculated
 
-The Swap referral program is active for certain trading pairs with sufficient TVL. Your swap referral commission percentage will be calculated based on the number of [TGR ](http://tegro.io/)tokens placed in the holder pool. The default swap referral reward set by [TegroFinance](https://tegro.finance/) will be 12.5%.
+The Swap referral program is active for certain trading pairs with sufficient TVL. Your swap referral commission percentage will be calculated based on the number of [TGR ](https://tegro.finance/)tokens placed in the holder pool. The default swap referral reward set by [TegroFinance](https://tegro.finance/) will be 12.5%.
